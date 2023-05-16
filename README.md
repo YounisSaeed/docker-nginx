@@ -6,3 +6,4 @@ This project template provides a professional setup for a Django web application
 -  Docker-based setup for simplified deployment and management.
 -  Scalable architecture to handle high traffic and ensure reliability.
 -  Configuration files and settings for seamless integration.
+-  make an log file to monitor which server received requests
